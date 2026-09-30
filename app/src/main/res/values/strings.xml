@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Semana 6</string>
+    <string name="hacer_foto">HACER FOTO</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="volver">VOLVER</string>
+    <string name="hint_nombre">Nombre de la foto</string>
+    <string name="desc_foto">Foto capturada</string>
+    <string name="error_nombre">Ingresa un nombre</string>
+    <string name="sin_camara">No hay aplicación de cámara disponible</string>
+    <string name="sin_nombre">(sin nombre)</string>
+</resources>
